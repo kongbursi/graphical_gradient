@@ -1,0 +1,6 @@
+﻿  moc gradient.h
+  gradient.cpp
+  main.cpp
+  moc_gradient.cpp
+  MyWidget.vcxproj -> F:\vs_workspace\MyWidget\x64\Debug\MyWidget.exe
+  MyWidget.vcxproj -> F:\vs_workspace\MyWidget\x64\Debug\MyWidget.pdb (Full PDB)
